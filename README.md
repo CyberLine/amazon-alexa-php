@@ -1,2 +1,9 @@
 # amazon-alexa-php
-Library to easyly handle Alexa skill requests and responses
+
+Library to easily handle Alexa skill requests and responses
+
+### Example
+
+#### Install using composer
+
+    composer require cyberline/amazon-alexa-php

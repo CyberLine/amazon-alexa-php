@@ -1,0 +1,19 @@
+{
+  "name": "cyberline/amazon-alexa-php",
+  "description": "Library to easily handle Alexa skill requests and responses",
+  "minimum-stability": "dev",
+  "homepage": "https://github.com/CyberLine/amazon-alexa-php",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Alexander Over",
+      "email": "cyberline@php.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.0.0"
+  },
+  "autoload": {
+    "psr-4": {"Alexa\\": "src/"}
+  }
+}
